@@ -1,5 +1,6 @@
 torch
 torchvision
+seaborn
 matplotlib
 scipy
 numpy
